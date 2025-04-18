@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b00d448c-0574-44de-b902-b3ad5f9be9ce)
+
 # 💫 About Me:
 👋 Hey there! I’m Achilleas Achilleos, a passionate computer science student at 🏫 University of Portsmouth.<br>💻 I code in Python, SQL, C++, HTML, and CSS — always building something cool.<br>🚗 Worked on a CarCare Hub Database, 🤖 explored AI & Society, 🧩 developed creative Python projects with Graphix and Tkinter and much more.<br>🌐 Check out my personal site and let’s connect! https://achilleas05.github.io/portfolio-website/<br><br>✨ Always learning. Always building.<br><br>📫 achilleasachilleos0@gmail.com
 
