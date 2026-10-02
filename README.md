@@ -1,7 +1,19 @@
 ![Banner](https://github.com/Achilleas05/Achilleas05/blob/09697680d4a2e8338ec91e57be007dd1d43ad9a4/IMG_6308.PNG)
 
 # 💫 About Me:
-👋 I’m Achilleas Achilleos, a second‑year Computer Science student at the University of Portsmouth with a strong interest in full‑stack development and data‑driven applications.<br><br>💻 I work with Python (Tkinter), Dart (Flutter), React, Next.js, Tailwind CSS, SQL/PostgreSQL, C++, HTML, and CSS. I enjoy building end‑to‑end solutions, from database design to polished user interfaces.<br><br>🚀 Some recent projects include:<br><br>Union Shop – a Flutter e‑commerce app with product listings and cart functionality.<br><br>UniSphere – a three‑tier Flutter/Firebase event management platform based on 31+ user interviews.<br><br>CarCare Hub – a PostgreSQL database for a car maintenance and repair business.<br><br>SmartHome System – a Python/Tkinter app for managing smart devices across multiple homes.<br><br>🌐 Portfolio: https://achilleas05.github.io/portfolio-website/<br><br>✨ Always learning. Always building.<br><br>📫 Reach me at achilleasachilleos0@gmail.com
+👋 I’m Achilleas Achilleos, a final-year Computer Science student at the University of Portsmouth with two software development internships and experience across full-stack development, backend systems, ERP automation, and applied AI.<br><br>
+
+💻 At NetU Consultants, I work with SuiteScript 2.1, SuiteQL, and REST APIs on enterprise ERP solutions involving financial workflows, external integrations, asynchronous processing, automation, and audit-focused business logic.<br><br>
+
+Previously, at Grafista, I worked in a production full-stack environment using Next.js, React, TypeScript, PostgreSQL, Directus CMS, and Docker.<br><br>
+
+🚀 Outside of work, I enjoy building complete products. I’m currently developing apto., a privacy-focused Flutter and Python recommendation system. I also led a six-person team as Tech Lead on UniSphere and built and deployed a production website that achieved 100/100 Lighthouse scores for SEO and Best Practices.<br><br>
+
+🔧 My main interests are software engineering, full-stack development, backend systems, ERP automation, and practical AI. I’m currently focused on 2027 graduate and junior software engineering opportunities where I can work on challenging products, learn from strong engineering teams, and take increasing ownership.<br><br>
+
+🌐 Portfolio: <a href="https://achilleas05.github.io/portfolio-website/">achilleas05.github.io/portfolio-website</a><br><br>
+
+📫 Always happy to connect with engineers, recruiters, and teams working on interesting software.
 
 
 ## 🌐 Socials:
